@@ -44,7 +44,7 @@ Years are considered to be 365 days.
 
 ## TODO
 
-[ ] Support `PYYYYMMDDThhmmss` format
-[ ] Support `P[YYYY]-[MM]-[DD]T[hh]:[mm]:[ss]` format
-[ ] Support decimal durations.
-[ ] Support different signs for the individual components (via a separate function)
+- [ ] Support `PYYYYMMDDThhmmss` format
+- [ ] Support `P[YYYY]-[MM]-[DD]T[hh]:[mm]:[ss]` format
+- [ ] Support decimal durations.
+- [ ] Support different signs for the individual components (via a separate function)
