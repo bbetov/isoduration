@@ -36,7 +36,7 @@ func main() {
 
 ## Limitations
 
-The ISO 8601 allows the durations to be specified using a decimal notation.
+The ISO 8601 allows the durations to be specified using a decimal notation, which is not currently supported.
 
 Months are considered to be 30 days.
 
